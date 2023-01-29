@@ -1,0 +1,8 @@
+# app base config 0750
+server:
+  debug: false #true|false
+  port: 8000
+  abc: "ddd"
+  ipdb_district: "./ip-quxian.ipdb"
+  ipdb_district_v6: "./ipv6_china_cn.ipdb"
+  ipdb_city: "./ip-city.ipdb"
